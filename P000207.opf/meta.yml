@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །ལྷག་པ་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པའི་རིམ་པ་ཕྱེ་བ། །
+  authors:
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  sku: RDI-TOK-05-1
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Systematic Presentation of Training in Higher Moral Ethics
+    bo: ལྷག་པ་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པའི་རིམ་པར་ཕྱེ་བ།
+  collection:
+    en: Treasury of Knowledge–  Book 5
+    bo: ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད།–  དེབ། ༥
+  author:
+    en: Jamgon Kongtrul Lodro Thaye
+    bo: འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  pusblisher:
+    en: Rigpe Dorje Institute
+    bo: རིག་པའི་རྡོ་རྗེ་གཙུག་ལག་སློབ་ཉེར་ཁང་།
+  sku: RDI-TOK-05-1
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: RDI-TOK-05-1.epub
+  description:
+    en: ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད། གནས་ལྔ་པ།
+    bo: ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད། གནས་ལྔ་པ།

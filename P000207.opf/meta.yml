@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000207
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ལྷག་པ་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པའི་རིམ་པ་ཕྱེ་བ། །
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: RDI-TOK-05-1
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-TOK-05-1
 web_metadata:
   title:
     en: A Systematic Presentation of Training in Higher Moral Ethics
